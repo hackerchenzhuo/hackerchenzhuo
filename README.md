@@ -22,6 +22,6 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=hackerchenzhuo)
 
-have a good day ~ ☀️
+Have a good day ~ ☀️
 
 <!--![](https://img.shields.io/badge/Interest-%F0%9F%8F%80%20%2F%20NBA-blue)-->
