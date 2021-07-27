@@ -17,11 +17,11 @@
   <!--![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)-->
 
-- 📫 How to reach me: 
+- 📫 My email: 
   [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn)
   
 ![](https://github-readme-stats.vercel.app/api?username=hackerchenzhuo)
 
-have a good day ☀️
+have a good day ~ ☀️
 
 <!--![](https://img.shields.io/badge/Interest-%F0%9F%8F%80%20%2F%20NBA-blue)-->
