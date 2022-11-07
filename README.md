@@ -1,5 +1,10 @@
-### About me
-- 👨‍🎓 Phd student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+- This is the place where I opensource stuff :rofl:
+
+<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="30%" height="auto" />
+
+#### About me
+- 👨‍🎓 I am a PHD student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
 
 - 📫 My email: 
   [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn)
