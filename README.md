@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="30%" height="auto" />
 
 #### About me
-- 👨‍🎓 I am a PHD student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
+- 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english). Reserch Interests: Knowledge Graph, Multi-Modal Learning, Low-Resource Learning.  
 
 - 📫 My email: 
   [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn)
