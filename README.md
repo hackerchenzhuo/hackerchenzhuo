@@ -31,7 +31,7 @@
 
 
   
-![](https://github-readme-stats.vercel.app/api?username=hackerchenzhuo)
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=hackerchenzhuo)
 
 Have a good day ~ ☀️ 
 
