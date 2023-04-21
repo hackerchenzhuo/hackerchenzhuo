@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 - This is the place where I opensource stuff :rofl:
 
-<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="30%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="25%" height="auto" />
 
 #### About me
 - 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english). Reserch Interests: Knowledge Graph, Multi-Modal Learning, Low-Resource Learning.  
@@ -45,7 +45,7 @@
 
   
 ![](https://readmestats.999857.xyz/api?username=hackerchenzhuo&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerchenzhuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 Have a good day ~ ☀️ 
