@@ -8,7 +8,7 @@
 
 - 📫 My email: 
   [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn)
-
+<!-- 
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
@@ -33,19 +33,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) -->
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) -->
 
 
 
 <!--![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)-->
-<a href="https://info.flagcounter.com/VOlE"><img src="https://s11.flagcounter.com/count2/VOlE/bg_FFFFFF/txt_000000/border_F7F7F7/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 
 
   
-![](https://readmestats.999857.xyz/api?username=hackerchenzhuo&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false)
+<!-- ![](https://readmestats.999857.xyz/api?username=hackerchenzhuo&theme=tokyonight&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerchenzhuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 Have a good day ~ ☀️ 
