@@ -1,11 +1,11 @@
 <!-- ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>-->
 <h2 align="center">Hi there 👋 , I'm Zhuo</h2>
 <!-- - This is the place where I opensource stuff :rofl:-->
-<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="10%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="13%" height="auto" />
 
 #### About me
-- 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english).
-- 🔭 Reserch Interests: Knowledge Graph, Multi-Modal Learning, Low-Resource Learning.  👉 [[Home Page]](https://hackerchenzhuo.github.io/)
+- 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english). 👉 [[Home Page]](https://hackerchenzhuo.github.io/)
+- 🔭 Reserch Interests: Knowledge Graph, Multi-Modal Learning, Low-Resource Learning. 
 - 📫 How to reach me: zhuo.chen@zju.edu.cn
 <!-- [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn) -->
   
