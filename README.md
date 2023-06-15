@@ -1,13 +1,16 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-- This is the place where I opensource stuff :rofl:
-
-<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="25%" height="auto" />
+<!-- ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>-->
+<h2 align="center">Hi there 👋 , I'm Zhuo</h2>
+<!-- - This is the place where I opensource stuff :rofl:-->
+<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="10%" height="auto" />
 
 #### About me
-- 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english). Reserch Interests: Knowledge Graph, Multi-Modal Learning, Low-Resource Learning.  👉 [[Home Page]](https://hackerchenzhuo.github.io/)
+- 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english).
+- 🔭 Reserch Interests: Knowledge Graph, Multi-Modal Learning, Low-Resource Learning.  👉 [[Home Page]](https://hackerchenzhuo.github.io/)
+- 📫 How to reach me: zhuo.chen@zju.edu.cn
+<!-- [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn) -->
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=hackerchenzhuo.visitor-badge)
 
-- 📫 My email: 
-  [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn)
 <!-- 
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
@@ -45,8 +48,8 @@
 
   
 <!-- ![](https://readmestats.999857.xyz/api?username=hackerchenzhuo&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerchenzhuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerchenzhuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 Have a good day ~ ☀️ 
 
