@@ -1,7 +1,7 @@
 <!-- ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>-->
 <h2 align="center">Hi there 👋 , This is Zhuo</h2>
 <!-- - This is the place where I opensource stuff :rofl:-->
-<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="13%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/hackerchenzhuo/blob/main/walk.gif"  width="10%" height="auto" />
 
 #### About me
 - 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english). 👉 [[Home Page]](https://hackerchenzhuo.github.io/)
@@ -51,6 +51,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hackerchenzhuo&theme=tokyonight&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerchenzhuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-Have a good day ~ ☀️ 
 
 <!--![](https://img.shields.io/badge/Interest-%F0%9F%8F%80%20%2F%20NBA-blue)-->
