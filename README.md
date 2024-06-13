@@ -7,7 +7,7 @@
 - 👨‍🎓 I am a Ph.D. candidate in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english). 👉 [[Home Page]](https://hackerchenzhuo.github.io/)
 - 🔭 Reserch Interests: Knowledge Graph, Multi-Modal Learning, Large Language Model. 👉 [[Survey]](https://github.com/zjukg/KG-MM-Survey)
 <!-- - If you are interested in my field of work, any form of **collaboration and communication** is welcome. -->
-- 📫 How to reach me: zhuo.chen@zju.edu.cn (🚀 looking for postdoc positions)
+- 📫 How to reach me: zhuo.chen@zju.edu.cn (🚀 looking for 25fall postdoc positions)
 <!-- [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn) -->
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=hackerchenzhuo.visitor-badge)
