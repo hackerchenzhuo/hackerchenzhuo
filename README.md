@@ -6,7 +6,7 @@
 #### About me
 - 👨‍🎓 I received my Ph.D. in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english) . 👉 [[Home Page]](https://hackerchenzhuo.github.io/)
 - 🔭 Research Interests: **Multi-Modal Learning**, **Large Language Models**, and **AI for Medicine** (agents · post-training / RL · auto-research · self-evolving).
-- 📖 Representative work: *Knowledge Graphs for Multi-modal Learning: Survey and Perspective* (**Information Fusion 2025**) 👉 [[Survey Repo]](https://github.com/zjukg/KG-MM-Survey) [[arXiv]](https://arxiv.org/abs/2402.05391)
+- 📖 *Knowledge Graphs for Multi-modal Learning: Survey and Perspective* 👉 [[Survey Repo]](https://github.com/zjukg/KG-MM-Survey) [[arXiv]](https://arxiv.org/abs/2402.05391)
 - 🤝 If you are interested in my field of work, any form of **collaboration and communication** is welcome.
 - 📫 How to reach me: zhuo.chen@zju.edu.cn
 <!-- [![Gmail Badge](https://img.shields.io/badge/-zhuo.chen@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:zhuo.chen@zju.edu.cn)](mailto:zhuo.chen@zju.edu.cn) -->
@@ -22,7 +22,7 @@
 - 🧠 [KG-MM-Survey](https://github.com/zjukg/KG-MM-Survey) — Knowledge Graphs × Multi-Modal Learning (Information Fusion 2025)
 - 🖼️ [MEAformer](https://github.com/zjukg/MEAformer) · [UMAEA](https://github.com/zjukg/UMAEA) · [SNAG](https://github.com/zjukg/SNAG) — multi-modal entity alignment & MMKG representation
 - 🧩 [DUET](https://github.com/zjukg/DUET) · [ZS-F-VQA](https://github.com/China-UK-ZSL/ZS-F-VQA) · [LaKo](https://github.com/hackerchenzhuo/LaKo) — knowledge-driven zero-shot learning & VQA
-- 🤖 [KnowPAT](https://github.com/zjukg/KnowPAT) · [KTeleBERT](https://github.com/hackerchenzhuo/KTeleBERT) — LLM alignment / post-training in domain scenarios
+- 🤖 [KTeleBERT](https://github.com/hackerchenzhuo/KTeleBERT) — post-training in domain scenarios
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=hackerchenzhuo.visitor-badge)
 
