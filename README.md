@@ -5,7 +5,7 @@
 
 #### About me
 - 👨‍🎓 I received my Ph.D. in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english) . 👉 [[Home Page]](https://hackerchenzhuo.github.io/)
-- 🔭 Research Interests: **Multi-Modal Learning**, **Large Language Models**, and **AI for Medicine** (agents · post-training / RL · auto-research · self-evolving).
+- 🔭 Research Interests: **Multi-Modal Learning**, **Large Language Models**, and **AI for Medicine** (Recursive Self-improvement · Post-training / RL · Auto-research · Self-evolving).
 - 📖 *Knowledge Graphs for Multi-modal Learning: Survey and Perspective* 👉 [[Survey Repo]](https://github.com/zjukg/KG-MM-Survey) [[arXiv]](https://arxiv.org/abs/2402.05391)
 - 🤝 If you are interested in my field of work, any form of **collaboration and communication** is welcome.
 - 📫 How to reach me: zhuo.chen@zju.edu.cn
