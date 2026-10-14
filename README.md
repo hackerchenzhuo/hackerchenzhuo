@@ -19,6 +19,7 @@
 </p>
 
 #### Selected Repos
+- 🩺 [MedEvo](https://github.com/pork-pay/MedEvo) · [ECG-RSI](https://github.com/pork-pay/ECG-RSI) — recursive self-improvement for medical reasoning & ECG understanding
 - 🧠 [KG-MM-Survey](https://github.com/zjukg/KG-MM-Survey) — Knowledge Graphs × Multi-Modal Learning (Information Fusion 2025)
 - 🖼️ [MEAformer](https://github.com/zjukg/MEAformer) · [UMAEA](https://github.com/zjukg/UMAEA) · [SNAG](https://github.com/zjukg/SNAG) — multi-modal entity alignment & MMKG representation
 - 🧩 [DUET](https://github.com/zjukg/DUET) · [ZS-F-VQA](https://github.com/China-UK-ZSL/ZS-F-VQA) · [LaKo](https://github.com/hackerchenzhuo/LaKo) — knowledge-driven zero-shot learning & VQA
